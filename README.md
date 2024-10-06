@@ -30,7 +30,7 @@ Project is created with:
 
 ## Website url
 
-https://black-grass-023cd2603.5.azurestaticapps.net/
+[Link](https://black-grass-023cd2603.5.azurestaticapps.net/)
 
 ## Website screenshot
 
